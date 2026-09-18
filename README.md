@@ -1,7 +1,7 @@
 <h1 align="center">2025 projects</h1>
 
 ## 🏗️ First Project
-This [YIC Project](https://canva.link/0f15ggmzlmmaj1d) is the first time i joined in this competition. Through this project, i learned a lots about technology, coding and power of unity. Therefore, i joined this competition in this year again to gain more experiences. 
+[YIC Project](https://canva.link/0f15ggmzlmmaj1d). Through this project, we learned a lots about technology, coding and power of unity. Therefore, we joined this competition in this year again to gain more experiences. 
  
 
 ## 🏗️ Second Project
