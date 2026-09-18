@@ -1,4 +1,4 @@
-# 2025-projects
+<h1 align="center">2025 projects</h1>
 
 [YIC Project](https://canva.link/0f15ggmzlmmaj1d)
 
